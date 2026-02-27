@@ -4,3 +4,4 @@ rules and roles
 telegram
 sm420
 btc pump hard soon
+lets play together
